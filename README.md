@@ -52,6 +52,8 @@
 
 
 ## Some stats :)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mar-kusn&label=Profile%20views&color=0e75b6&style=flat" alt="mar-kusn" /> </p>
+
 ![mar-kusn GitHub stats](https://github-readme-stats.vercel.app/api?username=mar-kusn&show_icons=true)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-kusn)](https://github.com/mar-kusn/github-readme-stats)
